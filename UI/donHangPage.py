@@ -2,8 +2,8 @@ from tkinter import *
 from tkinter import ttk
 from tkinter import messagebox
 
-from object.laptop import Brand
-from object.bill import Bill
+from objects.laptop import Brand
+from objects.bill import Bill
 
 class donHangFrame(Frame):
     def __init__(self, root):
