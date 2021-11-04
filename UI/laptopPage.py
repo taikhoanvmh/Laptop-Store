@@ -2,7 +2,7 @@ from tkinter import *
 from tkinter import ttk
 from tkinter import messagebox
 
-from object.laptop import Brand
+from objects.laptop import Brand
 
 class laptopFrame(Frame):
     def __init__(self, root):
