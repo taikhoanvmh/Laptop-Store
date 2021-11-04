@@ -7,3 +7,4 @@ Xây dựng app bán laptop đơn giản bằng tkinter (Python) 💻
 * Thống kê doanh số theo đơn hàng (***chưa cập nhập***)
 * Lưu thông tin laptop (tên, số lượng, thông số) vào file xml 
 * Lưu thông tin đơn hàng vào file xml 
+### Demo : https://youtu.be/3ptC4D-SOS8
